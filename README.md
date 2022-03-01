@@ -11,7 +11,7 @@
 
 >  - [`git clone https://github.com/xjusthaxor/skull/phising.sh`](https://github.com/xjusthaxor/skull/phising.sh)
 
->  - [`cd skull](/)
+>  - [`cd skull`](/)
 
 >  - [`python phising.sh`](/)
 
