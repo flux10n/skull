@@ -17,6 +17,6 @@
 
 > **Tag:**
 
->. - [#review](/), [#tools](/), [#hacking](/)
+>  - [#review](/), [#tools](/), [#hacking](/)
 
 
